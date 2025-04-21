@@ -1,6 +1,7 @@
+WELCOME SCREEN OF FRUIT SHOP
 import React from 'react';
 import { View, Text, Image, TouchableOpacity, StyleSheet } from 'react-native';
-import { StatusBar } from 'expo-status-bar'; // ✅ Correct import
+import { StatusBar } from 'expo-status-bar'; 
 
 export default function App() {
   return (
